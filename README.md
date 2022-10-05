@@ -1,15 +1,9 @@
-- 👋 Hi, I’m Mouli Sai Amballa
-- 👀 I’m interested in Problemm solving
-- 🌱 I’m currently learning DBMS, AI
-- 💞️ I’m a Student From LENDI INSTITUTE OF ENGINNEERING AND TECHNOLOGY.
--     in the domain of Electroncs and Comminication Engineering.
-- 🖥️I'm looking forward a builld a student friendly project and to colabrate with.
-- 📫 You Can Rach me at mouliraj56@gmail.com 
-- ![coding](https://user-images.githubusercontent.com/68856265/185779880-2041a199-ba17-4eb1-9394-b4cee486d5d1.gif)
-
-- 
-
-<!---
-mouliraj56/mouliraj56 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hello there...!
+I am Mouli from visakhapatnam.
+Seeking a beginner role to enhance and explore my technical knowledge gained in my journey of B.tech in Lendi Institute of Engineering and Technology.
+Graduating in the department of Electronics and Communication Engineering.
+working on VLSI projects and Computer Scince projects.
+love to make perfection in poster designing and photo editing.
+curated in solving puzzels and collaborate to learn something new
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="mouliraj56" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/mouliraj56?trk=profile-badge">Mouli Raj</a></div>
+              
